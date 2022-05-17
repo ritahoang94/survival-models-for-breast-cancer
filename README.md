@@ -14,3 +14,16 @@ It contains data on 686 women and 8 prognostic factors:
 6. progesterone receptor (progrec)
 7. tumor size (tsize)
 8. tumor grade (tgrade)
+
+## Goal
+1. Identify the risk score of each patient
+2. Predict the time to the next recurrence of the cancer cell
+3. Identify factors contributing to the risk of recurrence of the cancer cell
+
+## Model to test
+1. Random Survival Forest
+2. Support Vector Machine
+3. Gradient Boosted Model
+4. Neural network 
+
+## Results
