@@ -27,3 +27,7 @@ It contains data on 686 women and 8 prognostic factors:
 4. Neural network 
 
 ## Results
+
+## Conclusion
+
+## References
