@@ -64,7 +64,7 @@ To evaluate the model, we use [concordance index](https://proceedings.neurips.cc
 ### Risk score:
 Gradient Boosted Model has the best performance with concordance index of 0.691. Using this model, we pick 6 examples to make predictions
 
-![alt text](survival-models-for-breast-cancer/results/Screen Shot 2022-05-18 at 11.31.59 am.png?raw=true "testresult"))
+![6 samples](results/sixsample.png)
 
 
 
