@@ -66,9 +66,17 @@ Gradient Boosted Model has the best performance with concordance index of 0.691.
 
 ![6 samples](results/sixsample.png)
 
+People with older age and high estrogen receptor tend to have higher risk score. Let's check again with feature importance
+
+### Feature importance
+![Feature importance](results/featureimportance.png)
+Age, number of positive lymph nodes (pnodes) and progesterone receptor (progrec) are the most importance factors
 
 
-## Conclusion
+### Time survival
+![Feature importance](results/survivalcurve.png)
+Patient 3,4,5 tends to have recurrence of cancer cell before 1,500 days marks while patient 0,1,2, might not have it after 2,500 days.
+
 
 ## References
 - Gradient Boosted Model: https://scikit-survival.readthedocs.io/en/stable/user_guide/boosting.html
